@@ -828,6 +828,11 @@ button {
     margin: 0px;
     line-height: 40px;
 }
+
+.color-text a{
+    color:#c6c7c7;
+}
+
 .mail_text {
     width: 100%;
     float: left;
@@ -854,7 +859,7 @@ button {
     text-transform: uppercase;
     margin-top: 22px;
 }
-.footer_social_icon{
+.footer_social_icon{ 
     width: 100%;
     float: left;
 }
@@ -862,27 +867,14 @@ button {
     margin: 0px;
     padding: 0px;
 }
-.footer_social_icon li {
+.footer_social_icon a {
+    color: white;
     float: left;
-    padding: 35px 15px 0px 0px;
+    padding: 10px 10px 0px 0px;
+    
 }
-.footer_images{
-    width: 100%;
-    float: left;
-}
-.footer_images_left {
-    width: 32%;
-    float: left;
-}
-.footer_images_right{
-    width: 50%;
-    float: left;
-}
-.image_12 {
-    width: 88%;
-    float: left;
-    margin-top: 15px;
-}
+
+
 
 .copyright_section {
     width: 60%;
@@ -909,3 +901,9 @@ button {
 .margin_top_90{
   margin-top: 90px;
 }
+
+/*.footer_social_icon a {
+    color: white;
+    height: 500px;
+    width: 500px;
+}*/
