@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vitt-vichaar",
+  "private_key_id": "fc9deeb580930adabd9804411aef7cc02cdb9975",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrgm80FqP9h5nX\n/ip4Ks/9Q/jpE0TruG+29rXFaVp7+RxX4P0iQFrmyjhpJWeFT8x+DYuzbK+qpiTC\nTqCpwaI5yqY6U2x5Kr8ORxHY8OhGl7ySDJPsjqh+g/NEyXJrpZ40B/YeUW0dkAo+\nLKMuV9scOi3ZzzpOWn4ujEET8eoxUFGZRvdEgckFrdXmUROxYsohrGgW/3I111j9\nXUudcHsqOF4c2uQKU0MBI7RoFDwLi0qPNyO3UQFdHkQFq6PRupj6cx7Yuz5NUMof\n/vX3+1kStRILoeJLW5ptXX0/T5wNN7VDXIZSAYs1Ml1EB9zfHhl8SHbvu0l54xBn\naOEJQfYzAgMBAAECggEARXAWIMMn2t4bMcE0JZnDwpjR/l9wUHVIOY3SEx5v5XB6\ngrPTGJpwky79PsjHjEg+FSzbyiVvS8pfaJHX51K/oOFEgqnC6Z2eY6PvfGMwz1/g\nl0rjWut5GVvH0qoympWfoxY0FZtG76ihFQISgRFN4zRE2wHU6+MkYikjsfUIKbVe\n33+1pKqlb2GpWE6kYC7LQ9wznhyq/X6YYd/mTCSbO2vLD7KLT1jLK35vpDAO1Pp0\nZkYItLZ4Mr4aAmCkoWm1nw1jUL7LugjYz89ASpdkrxrO8Q6b3EHnUHHVPeCJegvi\nPnxKJQrNo8qbBnzEdKN1L16Iq5QAU5p1iGtmRJnVQQKBgQDStJ3f2Ko+1W4JlA+l\nzAc2+LionePTCEWC8rL/HCrSys4OTj7TCLy7S6zi82d40VsGyQmTswVSifSE/Euh\nJBDBoQHCo3op4PYkKAjWkl0x2cdccCm1Kn8wd4F/aV0rLX4jOSu6Dhj+SlfZKjjW\ncZTm6PQP68wAdc3PgDx5BmnA8wKBgQDQYNAAUKfI/3Pd/0Cd+DzRI23K9gZj1daD\nVnakDVmirhYXy232aD+cB6uhiqz0k9ACxub4yywBBAJIYizopuCjQZ8R2SRXyxbA\nL58ElNMV1hypbYKFGg05Lj8omC07x3iAFfdE9fdQs8KV4ar9XUPeEF41mx/3TfOZ\nb5b5NOJFwQKBgQDJhsrBAF/EfSojqyNUNlJoN3eWfn0aqHyjhDHDYlNrDWILuLbJ\n7T9l/Dk9UASVP9fKI5ovVDgw+5WNZCmJ1A7aw34FhYogZ/PEHS5m29KbDWpqdTTO\n+/huiL6o+EOOOpK8ab/y0e0BumVPZdy67iO2vvRADg0uG35fio1MS9/2FQKBgEWy\nG9//Gh+AUaDO3y32+WB6GR7pavm5bCZBpSz5yiE/WORchksEU0I8zosZdv/W8Jv9\nKwPL8MvmK11KePrX1grEyA+QMTesFc/yHZ3KqU+EbdG9bwpVzFZzwWwyee6kqQku\nT6YhHrc/aLX45NgZebmsf9YuLGLrD68iQ7zWk1gBAoGAfH+kWLKPFrczuMVR7mlk\n/fg+IGI1eMjU7jAyb3PwNDRiZycexiAEjJQFBIKmd9h8IW94QVOiSCvwBmZYBgYb\nz/DcrPDzSKQY1nYgoCQp9ryliNSZfdpkbF0G/hR8TMUdfGvU/pXSm4TsXwv1cjhb\nO2RaSQzKRyoWeVvKxnKKSSM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vitt-vichaar@vitt-vichaar.iam.gserviceaccount.com",
+  "client_id": "107670121378724286526",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vitt-vichaar%40vitt-vichaar.iam.gserviceaccount.com"
+}
