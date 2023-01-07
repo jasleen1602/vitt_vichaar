@@ -820,6 +820,7 @@ blockquote {
     font-size: 24px;
     color: #fffcf4;
     margin-bottom: auto;
+    padding-left: 0px;
 }
 .location_text {
     width: 100%;
@@ -1090,3 +1091,4 @@ blockquote {
     margin-left: 0px;
     margin-top: 0px;
 }
+
