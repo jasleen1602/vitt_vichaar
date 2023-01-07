@@ -388,11 +388,11 @@ blockquote {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #4aafff;
-    border: 2px solid #88c6f8;
     text-align: center;
     padding: 10px 0px;
     border-radius: 40px;
+    color: #181818;
+    border: 2px solid #ff5a58;
 }
 .moremore_bt a:hover {
     color: #181818;
@@ -819,6 +819,7 @@ blockquote {
     font-size: 24px;
     color: #fffcf4;
     margin-bottom: auto;
+    padding-left: 0px;
 }
 .location_text {
     width: 100%;
@@ -940,8 +941,8 @@ blockquote {
 
 
 .header > h2 {
-  margin: 0;
-  color: #4f46a5;
+    margin: 0;
+    color: #0f0e17;
 }
 
 .header > h4 {
@@ -982,14 +983,16 @@ blockquote {
 }
 
 #btn {
-  padding: 12px 10px;
-  border: 0;
-  background: linear-gradient(to right, #de48b5 0%,#0097ff 100%); 
-  border-radius: 3px;
-  margin-top: 5px;
-  color: #fff;
-  letter-spacing: 1px;
-  font-family: 'Rubik', sans-serif;
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #000;
+    border: 2px solid #0f7ef1;
+    text-align: center;
+    padding: 10px 0px;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 .animation {
@@ -1089,3 +1092,9 @@ blockquote {
     background-color: #EFEFF0;
     padding-bottom: 40px;
 }
+
+.container p {
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
