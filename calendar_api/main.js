@@ -1,54 +1,7 @@
 const { google } = require("googleapis");
 require("dotenv").config();
 
-$('#remform').submit(function (e) {
-    console.log("hiiiii")
-    e.preventDefault();
-    var name = $('#name').val();
-    var amount = $('#amt').val();
-    var number = $('#num').val();
-    var date = $('#date').val();
 
-    var ele = document.getElementsByName('bill');
-              
-    for(i = 0; i < ele.length; i++) {
-        if(ele[i].checked)
-            period = ele[i].value;
-    }
-    console.log(name, amount, number, date, period)
-    // const settings = {
-    //     "async": true,
-    //     "crossDomain": true,
-    //     "url": "https://google-translate1.p.rapidapi.com/language/translate/v2",
-    //     "method": "POST",
-    //     "headers": {
-    //         "content-type": "application/x-www-form-urlencoded",
-    //         "Accept-Encoding": "application/gzip",
-    //         "X-RapidAPI-Key": "af60f20a74msh60f3ff836106b88p1e643ejsnf88b8b559d64",
-    //         "X-RapidAPI-Host": "google-translate1.p.rapidapi.com"
-    //     },
-    //     "data": {
-    //         "q": "hello world",
-    //         "target": "hi",
-    //         "source": "en"
-    //     }
-    // };
-
-    // $.ajax(settings).done(function (response) {
-    //     console.log(response);
-    // });
-    $.ajax({
-        type: "POST",
-        url: "/ask",
-        data: $(this).serialize(),
-        success: function (response) {
-            $('#messageText').val('');
-        },
-        error: function (error) {
-            console.log(error);
-        }
-    });
-});
 
 const GOOGLE_PRIVATE_KEY = process.env.private_key;
 const GOOGLE_CLIENT_EMAIL = process.env.client_email;

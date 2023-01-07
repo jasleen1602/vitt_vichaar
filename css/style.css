@@ -357,7 +357,6 @@ blockquote {
 }
 .services_taital::after {
     content: '';
-    background-color: #ff5a58;
     position: absolute;
     width: 60px;
     text-align: center;
@@ -1037,7 +1036,14 @@ blockquote {
     transform: translateY(0);
   }
 }
-
+.col-md-4{
+    background-image: url(../images/services-bg.png);
+    background-color: #2d648e;
+    background-blend-mode: overlay;
+}
+.lorem_text{
+    padding: 3px;
+}
 @keyframes left {
   0% {
     opacity: 0;
