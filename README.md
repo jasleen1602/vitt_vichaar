@@ -1,6 +1,6 @@
 # vitt_vichaar
 
-वित्त विचार
+[वित्त विचार](https://www.youtube.com/watch?v=Bh0bVxLRb3o)
 A FINANCE ADVISOR one stop financial advisor for women entrepreneurs developed for SheBuildsHack. SheBuilds is a 48 hour gender-focused hackathon with endless creativity. 
 Students are challenged to further what they know by creating projects following their passions.
 
